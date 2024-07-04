@@ -47,7 +47,7 @@ This app integrates AI to enhance error handling and input formatting. It intell
 ---
 
 #### Feedback and Support
-If you encounter any issues or have suggestions for improvement, please reach out to us at seniorgamingchannel2004@gmail.com. Your feedback is highly appreciated!
+If you encounter any issues or have suggestions for improvement, please reach out to us at yogeshrai9413@gmail.com. Your feedback is highly appreciated!
 
 ---
 
